@@ -1,0 +1,16 @@
+{
+    "workbench.statusBar.visible": true,
+    "workbench.tips.enabled": true,
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.icons": true,
+    "breadcrumbs.showArrays": true,
+    "editor.cursorStyle": "line",
+    "editor.find.addExtraSpaceOnTop": true,
+    "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {
+    
+    },
+    "workbench.editor.decorations.colors": true,
+    "workbench.sideBar.location": "left",
+    "workbench.view.alwaysShowHeaderActions": true
+}
